@@ -16,18 +16,18 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "zh-TW"
-title: "Soka Orochi's Red Wheelbarrow"
+title: "紅色手推車"
 title_separator: "-"
-subtitle: Computer Science, Genetics, Neuroscience
+subtitle: 電腦 - 基因 - 神經
 name: "Soka"
 description: "I think this is the beginning of a beautiful friendship."
 url: "https://sokaorochi.github.io/"
-baseurl: "/"
+baseurl: ""
 repository: "sokaOrochi/sokaOrochi.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/mrrobot.png"
+logo: "/assets/images/rwb.jpeg"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs: true # true, false (default)
+breadcrumbs: false # true, false (default)
 words_per_minute: 200
 comments:
   provider: "disqus" # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name: "Soka Orochi"
-  avatar: "/assets/images/avatar92.jpg"
-  bio: "I will always be loyal to Elliot"
+  avatar: "/assets/images/mrrobot.png"
+  bio: ""
   location: "fsociety"
   email:
   links:
@@ -268,13 +268,18 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
       comments: true
       share: true
       related: true
       show_date: true
-      read_tiime: true
+      read_time: true
+      search: true
+      toc: true
+      toc_label: "導航"
+      toc_icon: "align-left"
+      # sidebar:
+      #   nav: "docs"
   - scope:
       path: ""
       type: pages
@@ -284,5 +289,8 @@ defaults:
 
 collections:
   Javascript:
-    output: true
+    output: false
     permalink: /:collection/:path/
+
+host: 192.168.1.17
+port: 4000
