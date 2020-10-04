@@ -15,17 +15,17 @@ theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "zh-TW"
-title: "紅色手推車"
+locale: "en-US"
+title: "Red Wheelbarrow"
 title_separator: "-"
-subtitle: 電腦 - 基因 - 神經
+subtitle: Self-sacrificing for the Great Cause.
 name: "Soka"
-description: "I think this is the beginning of a beautiful friendship."
+description: "We are all soldiers @ fsociety."
 url: "https://sokaorochi.github.io/"
 baseurl: ""
 repository: "sokaOrochi/sokaOrochi.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/rwb.jpeg"
+logo: # "/assets/images/orochi.jpg"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: false # true, false (default)
 words_per_minute: 200
@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name: "Soka Orochi"
-  avatar: "/assets/images/mrrobot.png"
-  bio: ""
-  location: "fsociety"
+  avatar: "/assets/images/orochi.jpg"
+  bio: "We are all soldiers @ fsociety."
+  location: "Coney Island"
   email:
   links:
     - label: "Twitter"
@@ -276,7 +276,7 @@ defaults:
       read_time: true
       search: true
       toc: true
-      toc_label: "導航"
+      toc_label: "Table"
       toc_icon: "align-left"
       # sidebar:
       #   nav: "docs"
@@ -292,5 +292,5 @@ collections:
     output: false
     permalink: /:collection/:path/
 
-host: 192.168.1.17
+host: 192.168.1.11
 port: 4000

@@ -1,5 +1,5 @@
 ---
-title: "分類存放"
+title: "Categories"
 layout: categories
 permalink: /categories/
 ---

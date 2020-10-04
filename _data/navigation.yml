@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "首頁"
+  - title: "Mr. Robot"
     url: /
-  - title: "分類"
+  - title: "Categories"
     url: /categories/
-  - title: "標籤"
+  - title: "Tags"
     url: /tags/
-  - title: "歸檔"
-    url: /archiving/
-  - title: "關於"
+  - title: "Archive"
+    url: /archive/
+  - title: "About"
     url: /about/
 # sidebar
 # docs:

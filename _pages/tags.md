@@ -1,5 +1,5 @@
 ---
-title: "標籤存放"
+title: "Tags"
 layout: tags
 permalink: /tags/
 ---
