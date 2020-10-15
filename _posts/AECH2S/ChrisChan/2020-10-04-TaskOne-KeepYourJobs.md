@@ -13,7 +13,7 @@ tags:
   - continue
 show_date: true
 excerpt: "Find a way to keep your ops jobs alive."
-last_modified_at: 2020-10-04T17:26:00+08:00
+last_modified_at: 2020-10-05T10:19:59+08:00
 ---
 
 # Problem Description
@@ -34,7 +34,7 @@ As you can see, the most important step is to find out the routine of that posit
 Start your research for collecting information about each digital employing website, and each post for hiring.
 
 1. Which websites are the most suitable for employing IT job-hunter?
-2. **(Working on!!!) Which perspectives are necessary for us to pay attention in those job posts:** 
+2. Which perspectives are necessary for us to pay attention in those job posts: 
    1. job requirements
    2. duty
    3. necessary skills
@@ -71,6 +71,12 @@ Be the master of all the technique find out previous.
 19. 才客
 20. 看準
 21. 得程招聘
+
+## Job Description
+
+1. Bachelor degree of Computer Science or above.
+2. Ops working experience in famous IT company over three years.
+3. Python, Go developing skills.
 
 # Bonus
 

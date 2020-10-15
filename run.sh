@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -n "Please select mode: s for standard (default), d for drafts"
+echo -n "Please select mode: s for standard (default), d for drafts: "
 read mode
 
 if [[ $mode == "s" ]]; then

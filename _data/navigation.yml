@@ -8,6 +8,8 @@ main:
     url: /tags/
   - title: "Archive"
     url: /archive/
+  - title: "Log"
+    url: /log/
   - title: "About"
     url: /about/
 # sidebar
