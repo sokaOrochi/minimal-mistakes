@@ -3,6 +3,7 @@ title: "Hello, friend."
 layout: single
 permalink: /about/
 author_profile: true
+classes: wide
 ---
 
 This is [Soka Orochi](https://twitter.com/SokaOrochi). The master of Chris in real life, and the agent for Mr. Robot and White Rose in mind.

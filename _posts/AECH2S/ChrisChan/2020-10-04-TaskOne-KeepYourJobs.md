@@ -6,11 +6,10 @@ toc_label: "Table"
 toc_icon: "align-left"
 categories:
   - ChrisChan
-  - ComputerScience
 tags:
   - billable
   - ops
-  - continue
+  - processing
 show_date: true
 excerpt: "Find a way to keep your ops jobs alive."
 last_modified_at: 2020-10-05T10:19:59+08:00
