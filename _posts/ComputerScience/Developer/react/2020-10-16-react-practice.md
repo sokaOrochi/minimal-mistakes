@@ -10,10 +10,10 @@ categories:
 tags:
   - processing
   - framework
-  - React
+  - react
 show_date: true
-excerpt: "Recoring my learning process about React"
-last_modified_at: 2020-10-18T00:04:10+08:00
+excerpt: "Recording my learning process about React"
+last_modified_at: 2020-10-19T22:42:19+08:00
 ---
 
 As the language and the framework my employee using is **Javascript** and **React native**, I am starting my first development project based on these two things. Therefore, I start web logging the whole study path of learning **React** progress, also I got some interesting idea may apply in real life with React. :)
@@ -34,6 +34,12 @@ Repository: [react-practice](https://github.com/sokaOrochi/react-practice)
 1. Make up a plan for the study progress in the following three months. (2020-10-17 to 2020-10-19)
 
    1. Books? ->
+
+      Javascript books:
+
+      ```shell
+      ${HOME}/Documents/github_page/react/books/javaScript/Eloquent_JavaScript.pdf
+      ```
 
       React books:
 
@@ -87,7 +93,7 @@ ${HOME}/Documents/github_page/react/books/javaScript
 
 ### Outcome
 
-javaScript project = [javaScript](https://github.com/sokaOrochi/react-practice/tree/master/javaScript)
+javaScript project = [javaScript](https://github.com/sokaOrochi/react-practice/tree/master/javaScript) -> **Working On...**
 
 # What is next?
 
