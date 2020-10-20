@@ -13,7 +13,7 @@ tags:
   - react
 show_date: true
 excerpt: "Recording my learning process about React"
-last_modified_at: 2020-10-19T22:42:19+08:00
+last_modified_at: 2020-10-20T23:48:50+08:00
 ---
 
 As the language and the framework my employee using is **Javascript** and **React native**, I am starting my first development project based on these two things. Therefore, I start web logging the whole study path of learning **React** progress, also I got some interesting idea may apply in real life with React. :)
