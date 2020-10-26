@@ -17,3 +17,7 @@ classes: wide
 | 2020-10-20                             | 1. Gathering the requirements from clients in filed.<br />2. Keep going into EP Javascript Book. |                                                              |
 | 2020-10-21                             | 1. Try to build a android app with react-native-usb-printer library, but failed.<br />2. Keep going on Node.js and EP Javascript Book | I can use Node.js as my back-end server, and handling the all the api and dealing with database.<br />As about Fornt-end, I should keep woring on Javascript and React project. |
 | 2020-10-22                             | 1. Next.js / Pyusb / Tudis's project<br />2. Node.js / Javascript |                                                              |
+| 2020-10-23                             | 1. Test remote control between android and android by sunlogin.oray product. |                                                              |
+| 2020-10-24                             | 1. Master Vim                                                |                                                              |
+| 2020-10-25 to 2020-10-26               | Rest                                                         |                                                              |
+| 2020-10-27                             | 1. Continue w/ JS                                            |                                                              |
